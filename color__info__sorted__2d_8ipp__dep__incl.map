@@ -1,0 +1,9 @@
+<map id="color_info_sorted_2d.ipp" name="color_info_sorted_2d.ipp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="165,5,347,31"/>
+<area shape="rect" id="Node000002" href="$color__gallery_8cpp.html" title=" " alt="" coords="5,79,136,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,38,102,81,100,76,213,33"/>
+<area shape="rect" id="Node000003" href="$color__info__palette256_8cpp.html" title=" " alt="" coords="161,79,351,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="259,44,259,79,253,79,253,44"/>
+<area shape="rect" id="Node000004" href="$homescreen_8cpp.html" title=" " alt="" coords="375,79,505,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="299,33,411,76,409,81,297,38"/>
+</map>

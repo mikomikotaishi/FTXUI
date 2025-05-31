@@ -1,0 +1,22 @@
+<map id="MenuOption" name="MenuOption">
+<area shape="rect" id="Node000001" title="Option for the Menu component." alt="" coords="226,401,327,427"/>
+<area shape="rect" id="Node000002" href="$classftxui_1_1ConstStringListRef.html" title="An adapter. Reference a list of strings." alt="" coords="5,299,148,324"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,332,127,354,159,375,193,389,227,400,225,405,191,394,157,380,124,359,97,336"/>
+<area shape="rect" id="Node000003" href="$classftxui_1_1Ref.html" title=" " alt="" coords="173,299,263,324"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,337,216,357,222,376,233,389,248,399,245,403,229,393,217,379,211,358,210,337"/>
+<area shape="rect" id="Node000004" href="$structftxui_1_1UnderlineOption.html" title=" " alt="" coords="271,159,399,185"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="341,198,344,235,343,281,336,331,319,379,309,392,297,403,293,399,305,389,314,376,331,330,338,281,339,235,336,199"/>
+<area shape="rect" id="Node000005" href="$classftxui_1_1Color.html" title="A class representing terminal colors." alt="" coords="369,5,425,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="358,35,344,44,334,56,324,82,324,111,334,159,328,160,318,111,319,81,329,53,340,40,355,30"/>
+<area shape="rect" id="Node000010" href="$structftxui_1_1AnimatedColorOption.html" title="Option about a potentially animated color." alt="" coords="377,108,539,133"/>
+<area shape="poly" id="edge10_Node000010_Node000005" title=" " alt="" coords="420,39,431,53,446,82,456,107,452,109,441,84,426,56,416,43"/>
+<area shape="rect" id="Node000006" href="$structftxui_1_1MenuEntryOption.html" title="Option for the MenuEntry component." alt="" coords="391,299,525,324"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="431,334,355,380,305,404,303,399,353,375,428,330"/>
+<area shape="rect" id="Node000007" href="$classftxui_1_1ConstStringRef.html" title="An adapter. Own or reference a constant string. For convenience, this class convert multiple immutabl..." alt="" coords="580,211,699,236"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="620,247,578,277,546,291,513,301,511,296,544,286,575,272,616,243"/>
+<area shape="rect" id="Node000008" href="$classftxui_1_1ConstRef.html" title=" " alt="" coords="563,108,739,133"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="651,148,643,211,638,210,646,147"/>
+<area shape="rect" id="Node000009" href="$structftxui_1_1AnimatedColorsOption.html" title=" " alt="" coords="373,211,543,236"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="461,250,461,298,455,298,455,250"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="461,147,461,211,455,211,455,147"/>
+</map>

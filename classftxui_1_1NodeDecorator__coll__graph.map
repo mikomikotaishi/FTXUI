@@ -1,0 +1,13 @@
+<map id="NodeDecorator" name="NodeDecorator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,181,125,207"/>
+<area shape="rect" id="Node000002" href="$classftxui_1_1Node.html" title=" " alt="" coords="176,93,232,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,128,86,183,83,179,172,124"/>
+<area shape="rect" id="Node000004" href="$structftxui_1_1Requirement_1_1Focused.html" title=" " alt="" coords="289,181,364,207"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="224,127,255,155,298,179,296,184,252,160,221,131"/>
+<area shape="rect" id="Node000003" href="$structftxui_1_1Requirement.html" title=" " alt="" coords="141,269,248,295"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="187,256,182,221,183,181,198,118,203,119,188,182,187,220,192,255"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="299,216,214,271,211,267,296,212"/>
+<area shape="rect" id="Node000005" href="$structftxui_1_1Box.html" title=" " alt="" coords="249,5,295,31"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="256,43,216,94,211,91,252,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="283,43,287,54,326,180,321,182,281,55,278,45"/>
+</map>

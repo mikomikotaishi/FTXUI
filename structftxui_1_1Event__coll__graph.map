@@ -1,0 +1,20 @@
+<map id="Event" name="Event">
+<area shape="rect" id="Node000001" title="Represent an event. It can be key press event, a terminal resize, or more ..." alt="" coords="111,715,170,740"/>
+<area shape="rect" id="Node000002" href="$structftxui_1_1Event.html" title="Represent an event. It can be key press event, a terminal resize, or more ..." alt="" coords="111,412,170,437"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,451,143,715,138,715,138,451"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="164,403,175,401,186,404,194,412,197,425,192,440,181,447,166,447,151,440,153,435,167,442,179,442,188,437,191,425,189,415,183,409,175,406,165,408"/>
+<area shape="rect" id="Node000003" href="$classftxui_1_1ScreenInteractive.html" title=" " alt="" coords="13,256,149,281"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="69,294,56,318,47,345,38,389,36,425,39,460,47,505,66,569,91,629,136,713,131,716,86,631,61,570,42,506,34,461,30,425,33,388,42,343,51,316,64,292"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="93,293,139,411,134,413,88,295"/>
+<area shape="rect" id="Node000004" href="$classftxui_1_1Screen.html" title="A rectangular grid of Pixel." alt="" coords="47,181,114,207"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="83,221,83,256,78,256,78,221"/>
+<area shape="rect" id="Node000005" href="$classftxui_1_1Image.html" title="A rectangular grid of Pixel." alt="" coords="5,93,68,119"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="51,130,77,180,72,182,47,132"/>
+<area shape="rect" id="Node000006" href="$structftxui_1_1Box.html" title=" " alt="" coords="13,5,60,31"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="39,45,39,93,34,93,34,45"/>
+<area shape="rect" id="Node000007" href="$structftxui_1_1Screen_1_1Cursor.html" title=" " alt="" coords="93,93,157,119"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="115,132,89,182,84,180,110,130"/>
+<area shape="rect" id="Node000008" href="$structftxui_1_1Mouse.html" title="A mouse event. It contains the coordinate of the mouse, the button pressed and the modifier (shift,..." alt="" coords="175,256,240,281"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="238,289,247,303,248,301,254,291,261,280,269,276,272,291,268,328,238,506,219,603,204,644,178,692,157,716,153,713,173,689,199,641,214,601,233,505,263,327,267,291,267,280,265,283,258,294,252,305,245,308,234,292"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="199,295,148,413,143,411,194,293"/>
+</map>

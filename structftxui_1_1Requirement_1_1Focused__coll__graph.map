@@ -1,0 +1,14 @@
+<map id="Requirement::Focused" name="Requirement::Focused">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,181,172,207"/>
+<area shape="rect" id="Node000002" href="$structftxui_1_1Box.html" title=" " alt="" coords="197,5,244,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,42,153,95,121,143,97,183,93,180,116,140,149,92,197,38"/>
+<area shape="rect" id="Node000003" href="$classftxui_1_1Node.html" title=" " alt="" coords="193,93,249,119"/>
+<area shape="poly" id="edge7_Node000003_Node000002" title=" " alt="" coords="223,45,223,93,218,93,218,45"/>
+<area shape="rect" id="Node000005" href="$structftxui_1_1Requirement_1_1Focused.html" title=" " alt="" coords="337,181,411,207"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="247,37,264,53,306,95,344,141,370,180,365,183,340,144,302,99,260,57,243,41"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,128,166,145,108,183,105,179,163,140,189,124"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="252,124,306,155,352,179,349,184,303,160,250,128"/>
+<area shape="rect" id="Node000004" href="$structftxui_1_1Requirement.html" title=" " alt="" coords="189,269,295,295"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="236,256,230,207,219,119,225,119,235,206,241,256"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="346,216,261,271,258,267,343,212"/>
+</map>
