@@ -143,27 +143,8 @@ class VText : public Node {
 /// ```bash
 /// Hello world!
 /// ```
-Element text(std::string text) {
-  return std::make_shared<Text>(std::move(text));
-}
-
-/// @brief Display a piece of UTF8 encoded unicode text.
-/// @ingroup dom
-/// @see ftxui::to_wstring
-///
-/// ### Example
-///
-/// ```cpp
-/// Element document = text("Hello world!");
-/// ```
-///
-/// ### Output
-///
-/// ```bash
-/// Hello world!
-/// ```
-Element text(std::string_view sv) {
-  return text(std::string(sv));
+Element text(std::string_view text) {
+  return std::make_shared<Text>(std::string(text));
 }
 
 /// @brief Display a piece of unicode text.
@@ -230,38 +211,8 @@ Element text(std::wstring_view sv) {
 /// d
 /// !
 /// ```
-Element vtext(std::string text) {
-  return std::make_shared<VText>(std::move(text));
-}
-
-/// @brief Display a piece of unicode text vertically.
-/// @ingroup dom
-/// @see ftxui::to_wstring
-///
-/// ### Example
-///
-/// ```cpp
-/// Element document = vtext("Hello world!");
-/// ```
-///
-/// ### Output
-///
-/// ```bash
-/// H
-/// e
-/// l
-/// l
-/// o
-///
-/// w
-/// o
-/// r
-/// l
-/// d
-/// !
-/// ```
 Element vtext(std::string_view text) {
-  return vtext(std::string(text));
+  return std::make_shared<VText>(std::string(text));
 }
 
 /// @brief Display a piece unicode text vertically.

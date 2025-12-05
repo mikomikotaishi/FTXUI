@@ -123,9 +123,9 @@ TEST(TextTest, CombiningCharactersWithSpace) {
 }
 
 TEST(TextTest, WithStringViews) {
-  const std::string_vew t = "Hello, world!";
+  const std::string_view t = "Hello, world!";
   auto element = text(t);
-  Screen screen(146, 1);
+  Screen screen(13, 1);
   Render(screen, element);
   EXPECT_EQ(t, screen.ToString());
 }
